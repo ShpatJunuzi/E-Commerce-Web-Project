@@ -1,0 +1,38 @@
+{
+  "products": [],
+  "users": [
+    {
+      "id": "954b",
+      "name": "Shpat",
+      "email": "shpat@test.com"
+    },
+    {
+      "id": "dfe3",
+      "name": "test",
+      "email": "test@test.com"
+    },
+    {
+      "id": "c1bc",
+      "name": "test",
+      "email": "test@test.com"
+    },
+    {
+      "id": "7d6f",
+      "name": "test",
+      "email": "test@test.com"
+    },
+    {
+      "id": "4996",
+      "name": "Shpat",
+      "email": "heren6827@gmail.com",
+      "password": "Umbr3lla123"
+    },
+    {
+      "id": "d4cf",
+      "name": "Shpat ",
+      "email": "heren6827@gmail.com",
+      "password": "Umbr3lla123]"
+    }
+  ],
+  "orders": []
+}

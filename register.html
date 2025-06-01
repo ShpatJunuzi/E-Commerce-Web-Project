@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Register</title>
+  <link rel="shortcut icon" href="https://i.postimg.cc/yYGmq2Zz/png-login-logout-white-icon-701751694972561beffujnsgi-1.png">
+  <link rel="stylesheet" href="login.css" />
+</head>
+<body>
+
+
+
+  <div class="container">
+    <form id="registerForm">
+           <a href="../index.html" class="back-home">
+  Back to Home
+  </a>
+
+      <h2>Register</h2>
+
+      <label for="name">Name:</label>
+      <input type="text" id="name" placeholder="Write your Name"   style="opacity: 0.7;" required />
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" placeholder="Write your Email here" style="opacity: 0.7;" required />
+
+      <label for="password">Password:</label>
+     <input type="password" id="password" placeholder="Write your Password here" style="opacity: 0.7;" required />
+     
+      <button type="submit">Register</button>
+
+    </form>
+    <p id="registerMessage"></p>
+  </div>
+
+  <script>
+document.getElementById("registerForm").addEventListener("submit", function(e) {
+  e.preventDefault();
+
+  const name = document.getElementById("name").value.trim();
+  const email = document.getElementById("email").value.trim();
+  const password = document.getElementById("password").value;
+
+  const newUser = { name, email, password };
+
+  let users = JSON.parse(localStorage.getItem("users")) || [];
+
+  
+  const userExists = users.some(user => user.email === email);
+  if (userExists) {
+    alert("User with this email already exists!");
+    return;
+  }
+
+  users.push(newUser);
+  localStorage.setItem("users", JSON.stringify(users));
+  alert("Registration successful! Please login.");
+  window.location.href = "/Apk/frontend/login-form/login.html";
+});
+
+  </script>
+
+
+</body>
+</html>
