@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "title": "Makita Hoodie",
+      "price": 30,
+      "image": "https://i.ebayimg.com/images/g/AbEAAOSwadhfDa-V/s-l1600.webp"
+    },
+    {
+      "title": "Yoshimura Hoodie",
+      "price": 25,
+      "image": "https://i.ebayimg.com/images/g/CRkAAOSwStVkHvMY/s-l1600.webp"
+    },
+    {
+      "title": "The Walking Dead Hoodie",
+      "price": 40,
+      "image": "https://i.ebayimg.com/images/g/J9gAAOSwxmdnTYX~/s-l1600.webp"
+    },
+    {
+      "title": "COMPTON Hoodie Sweatshirt",
+      "price": 38.99,
+      "image": "https://i.ebayimg.com/images/g/ysUAAOSwuQRnGxhT/s-l1600.webp"
+    },
+    {
+      "title": "Ink Dragon Tattoo",
+      "price": 26,
+      "image": "https://i.ebayimg.com/images/g/dcIAAOSwhi5i6WvE/s-l1600.webp"
+    },
+    {
+      "title": "Black Mamba Hoodie",
+      "price": 39.99,
+      "image": "https://i.ebayimg.com/images/g/d2QAAOSwEdtndHNv/s-l1600.webp"
+    },
+    {
+      "title": "Idles Joy As An Act Of Resistance Hoodie",
+      "price": 34.99,
+      "image": "https://i.ebayimg.com/images/g/7OQAAOSwRBpnZpig/s-l1600.webp"
+    },
+    {
+      "title": "Leclerc F1 Hoodie",
+      "price": 40,
+      "image": "https://i.ebayimg.com/images/g/WJMAAOSwJLpn5rq9/s-l1600.webp"
+    }
+  ],
+  "newProducts": [
+    {
+      "title": "Twenty One Pilots Car Radio Hoodie",
+      "price": 39.99,
+      "image": "https://i.ebayimg.com/images/g/FR8AAOSw4RVnRtIB/s-l1600.webp"
+    },
+    {
+      "title": "Ado Wish Tour Hoodie",
+      "price": 20,
+      "image": "https://i.ebayimg.com/images/g/fHgAAOSwnURnb2x0/s-l1600.webp"
+    },
+    {
+      "title": "Beabadoobee Hoodie",
+      "price": 30,
+      "image": "https://i.ebayimg.com/images/g/S3wAAOSwGYFnwsfz/s-l1600.webp"
+    },
+    {
+      "title": "REVENGE Kill Hoodie",
+      "price": 29.99,
+      "image": "https://i.ebayimg.com/images/g/tkoAAOSwb39bKzZD/s-l1600.webp"
+    },
+    {
+      "title": "Cigarettes After Sex",
+      "price": 40,
+      "image": "https://i.ebayimg.com/images/g/P3AAAOSwASpnQU-s/s-l1600.webp"
+    },
+    {
+      "title": "Puma Wal Wrk Wr Pullover Hoodie",
+      "price": 29.99,
+      "image": "https://i.ebayimg.com/images/g/TRoAAeSw5pRoIA-1/s-l1600.webp"
+    },
+    {
+      "title": "Leo Leopard 1A5 tank Hoodie",
+      "price": 24.99,
+      "image": "https://i.ebayimg.com/images/g/W8wAAOSwsnVdoHjk/s-l1600.webp"
+    },
+    {
+      "title": "Sports-Inspired Garmin Extreme Pro Logo Unisex",
+      "price": 30,
+      "image": "https://i.ebayimg.com/images/g/FyIAAOSwEmdnrHhD/s-l1600.webp"
+    },
+     {
+      "title": "Sports-Inspired Garmin Extreme Pro Logo Unisex",
+      "price": 30,
+      "image": "https://i.ebayimg.com/images/g/FyIAAOSwEmdnrHhD/s-l1600.webp"
+    }
+  ]
+}
